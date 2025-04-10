@@ -1,0 +1,15 @@
+Sales Insights:
+
+CompanyName:Atliq Hardwares
+
+AIMS GRID
+
+Purpose:To unlock sales insights that are not visible before for sales team for decision support&automate them to 
+reduced manual time spent in data gathering .
+
+StakeHolders:1.SalesDirector 2.MarketingTeam 3.CustomerServiceTeam 4.Data&AnalyticsTeam 5.IT
+
+EndResult:An automated dashboard providing quick & latest sales insights inorder to support data driven decision making.
+
+SuccessCriteria:1.Dashboards uncovering sales order insights with latest data available 2.Sales team able to take better decisions & prove 10% cost savings of total spend 3.sales analyst stop data gathering manually inorder to
+save 20% of their business time and reinvest it to value added activity
